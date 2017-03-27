@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArcProgress.iml" filepath="$PROJECT_DIR$/ArcProgress.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arcprogress/arcprogress.iml" filepath="$PROJECT_DIR$/arcprogress/arcprogress.iml" />
       <module fileurl="file://$PROJECT_DIR$/arcprogress/arcprogress.iml" filepath="$PROJECT_DIR$/arcprogress/arcprogress.iml" />
     </modules>
   </component>

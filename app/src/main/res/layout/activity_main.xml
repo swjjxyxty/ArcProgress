@@ -10,8 +10,8 @@
 
     <com.bestxty.pb.ArcProgressBar
         android:id="@+id/arc_progress1"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
         android:layout_centerInParent="true"
         app:arc_bottom_text="Hello"
         app:arc_stroke_width="5dp"
